@@ -9,3 +9,6 @@ Simple checklist to follow while doing an ML project end to end:
 7. Write tests after completing of each class/script
 8. Use MLflow or other methods to track parameters and deploy best performing models automatically 
 9. Create github actions for running the tests and continuous deployment
+10. Add docstrings
+11. Reformat the code with black or any other tool
+12. Creatr requirements.txt file with pipreqs or other library of your choice
