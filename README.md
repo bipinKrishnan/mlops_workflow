@@ -1,4 +1,4 @@
-Simple checklist to follow while doing an ML project:
+Simple checklist to follow while doing an ML project end to end:
 
 1. Create a git repo 
 2. Create a good structure for the project either by using cookiecutter or by yourself
